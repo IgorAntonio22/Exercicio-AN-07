@@ -1,3 +1,12 @@
+## Imagens
+
+![Busca](./resources/img/Imagem%201.png)
+
+![Detalhes](./resources/img/Imagem%202.png)
+
+![Repositório](./resources/img/Imagem%203.png)
+
+
 # AulaAN33
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
