@@ -104,8 +104,5 @@
       }
     }
   },
-  "defaultProject": "aulaAN33",
-  "cli": {
-    "analytics": false
-  }
+  "defaultProject": "aulaAN33"
 }
